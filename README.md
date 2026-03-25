@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=E53935&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Vad;I+build+desktop+tools+and+web+apps;PowerShell+%7C+Python+%7C+C%23+%7C+Automation" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=E53935&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+VADLIKE;I+build+desktop+tools+and+web+apps;PowerShell+%7C+Python+%7C+C%23+%7C+Automation" alt="Typing Banner" />
 </div>
 
 <div align="center">

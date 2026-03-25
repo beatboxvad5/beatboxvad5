@@ -1,58 +1,36 @@
-# Hello, I am Vad
+# Hey, I am Vad
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:141414,100:b30000&text=beatboxvad5&fontColor=ffffff&fontSize=38&section=header" alt="header" />
+
+### Frontend and Full-Stack Developer
+- Building modern websites, web apps, and useful automation tools.
+- Turning ideas into working products with clean UI and practical logic.
+- Open for collaboration on interesting web projects.
+
+### Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatboxvad5)
+[![Email](https://img.shields.io/badge/Email-Contact-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatboxvad2@gmail.com)
+[![Repos](https://img.shields.io/badge/Repositories-View-2b2b2b?style=for-the-badge)](https://github.com/beatboxvad5?tab=repositories)
+
+### Tech Stack
 <p>
-  Full-stack developer focused on websites, web apps, automation, and product-style builds.
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode,figma&perline=7" alt="skills" />
 </p>
 
+### What I Focus On
+- High quality landing pages and business websites
+- Admin panels and dashboards
+- Full-stack apps with API + auth + database
+- Scripts and small automation utilities
+
+### Current Projects
+- [testing](https://github.com/beatboxvad5/testing) - active sandbox for code and experiments
+- More production-ready repos coming soon
+
+### GitHub Stats
 <p>
-  <a href="https://github.com/beatboxvad5?tab=repositories"><img src="https://img.shields.io/badge/Repos-View-blue?style=for-the-badge" alt="Repos"></a>
-  <a href="https://github.com/beatboxvad5?tab=stars"><img src="https://img.shields.io/badge/Stars-Profile-black?style=for-the-badge" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20collab-red?style=for-the-badge" alt="Status">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=beatboxvad5&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=bdbdbd&icon_color=d13434" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatboxvad5&layout=compact&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=bdbdbd" alt="langs" />
 </p>
 
-## What I build
-
-- Landing pages and business websites
-- Dashboards and admin panels
-- Full web apps with API and auth
-- Bots, utilities, and automation scripts
-- Fast MVPs from idea to working product
-
-## Tech stack
-
-**Frontend:** `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`
-
-**Backend:** `Node.js` `Express` `REST API` `PostgreSQL` `MongoDB`
-
-**Tools:** `Git` `GitHub` `Figma` `Postman` `CLI automation`
-
-## Focus now
-
-- Publishing stronger public repositories
-- Clean architecture and scalable UI
-- Better product packaging and docs
-
-## Featured projects
-
-Pin your best repositories here:
-
-- `portfolio-site` - personal site with clean visual style
-- `web-app` - core full-stack project
-- `automation-tool` - useful script or bot
-- `ui-kit` - components and design experiments
-
-## GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=beatboxvad5&show_icons=true&theme=transparent" alt="Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatboxvad5&layout=compact&theme=transparent" alt="Top langs">
-</p>
-
-## Contact
-
-- GitHub: [@beatboxvad5](https://github.com/beatboxvad5)
-- Email: `beatboxvad2@gmail.com`
-
----
-
-<p><i>I build practical products with clean UI and real functionality.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:b30000,100:141414&section=footer" alt="footer" />

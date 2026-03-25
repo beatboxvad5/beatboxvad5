@@ -75,5 +75,5 @@
 
 ---
 <div align="center">
-  <i>Temporary build repo: this README is prepared for transfer to <b>vadlike/vadlike</b>.</i>
+  <i>Build tools. Automate workflows. Ship useful products.</i>
 </div>
